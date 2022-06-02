@@ -1,0 +1,13 @@
+{
+  "item.organmod.lead_ingot": "Lead Ingot",
+  "item.organmod.tin_ingot": "Tin Ingot",
+  "item.organmod.raw_tin": "Raw Tin",
+  "item.organmod.raw_lead": "Raw Lead",
+
+  "block.organmod.tin_ore": "Tin Ore",
+  "block.organmod.lead_ore": "Lead Ore",
+  "block.organmod.tin_block": "Tin Block",
+  "block.organmod.lead_block": "Lead Block",
+
+  "itemGroup.organtab": "Organ Mod"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "organmod:tin_ore"
+  },
+  "result": "organmod:tin_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

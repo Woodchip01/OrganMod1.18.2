@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "organmod:lead_ore",
+    "organmod:tin_ore",
+    "organmod:tin_block",
+    "organmod:lead_block"
+  ]
+}

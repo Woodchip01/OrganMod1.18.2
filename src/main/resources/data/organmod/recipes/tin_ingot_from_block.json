@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "organmod:tin_block"
+    }
+  ],
+  "result": {
+    "item": "organmod:tin_ingot",
+    "count": 9
+  }
+}
