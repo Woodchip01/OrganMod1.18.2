@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "organmod:block/organ_console_threeb" },
+    "facing=east": { "model":  "organmod:block/organ_console_threeb", "y": 90 },
+    "facing=south": { "model":  "organmod:block/organ_console_threeb", "y": 180 },
+    "facing=west": { "model":  "organmod:block/organ_console_threeb", "y": 270 }
+  }
+}
